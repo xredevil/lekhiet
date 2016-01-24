@@ -1,6 +1,7 @@
 //originthay doi ngay cho nay luon
 //origin
-abc//lan 2
+bc//lan
+2
 //conflict
 lan nay se khong tot8888888
 9999
