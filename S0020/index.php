@@ -2,7 +2,7 @@
 //origin
 abc//lan 2
 //conflict
-77777
+lan nay se khong tot8888888
 9999
-00000
+thu khong commit thu xem
 chua get ve ma sua thi se bi conflict nhu the nao?
