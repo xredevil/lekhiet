@@ -1,0 +1,482 @@
+①	Learn HTML				
+	I. Learn HTML: Elements and Structure				
+		A. Introduction to HTML			
+			1. What is HTML?		
+			2. HTML Anatomy		
+			3. The Body		
+			4. HTML Structure		
+			5. Headings		
+			6. Divs		
+			7. Attributes		
+			8. Displaying Text		
+			9. Styling Text		
+			10. Line Breaks		
+			11. Unordered Lists		
+			12. Ordered Lists		
+			13. Images		
+			14. Image Alts		
+			15. Videos		
+			16. Review		
+		B. HTML Document Standards			
+			1. Preparing for HTML		
+			2. The <html> tag		
+			3. The Head		
+			4. Page Titles		
+			5. Where Does the Title Appear?		
+			6. Linking to Other Web Pages		
+			7. Opening Links in a New Window		
+			8. Linking to Relative Page		
+			9. Linking At Will		
+			10. Linking to Same Page		
+			11. Whitespace		
+			12. Indentation		
+			13. Comments		
+			14. HTML Tags		
+	II. Learn HTML: Tables				
+		A. Tables			
+			1. Why Tables?		
+			2. Create a Table		
+			3. Table Rows		
+			4. Table Data		
+			5. Table Headings		
+			6. Table Borders		
+			7. Spanning Columns		
+			8. Spanning Rows		
+			9. Table Body		
+			10. Table Head		
+			11. Table Footer		
+			12. Styling with CSS		
+			13. HTML Tables		
+					
+②	Learn CSS				
+	I. Learn CSS: Selectors and Visual Rules				
+		A. CSS Setup and Selectors			
+			1. Intro to CSS		
+			2. Inline Styles		
+			3. The <style> Tag		
+			4. The .css file		
+			5. Linking the CSS File		
+			6. Tag Name		
+			7. Class Name		
+			8. Multiple Classes		
+			9. ID Name		
+			10. Classes and IDs		
+			11. Specificity		
+			12. Chaining Selectors		
+			13. Nested Elements		
+			14. Chaining and Specificity		
+			15. Important		
+			16. Multiple Selectors		
+			17. Review CSS Selectors		
+		B. CSS Visual Rules			
+			1. Introduction To Visual Rules		
+			2. CSS Structure		
+			3. Font Family		
+			4. Font Size		
+			5. Font Weight		
+			6. Text Align		
+			7. Color		
+			8. Opacity		
+			9. Background Image		
+			10. Review Visual Rules		
+	II. Learn CSS: The Box Model				
+		A. The Box Model			
+			1. Introduction to the Box Model		
+			2. The Box Model		
+			3. Height and Width		
+			4. Borders		
+			5. Border Radius		
+			6. Padding I		
+			7. Padding II		
+			8. Margins I		
+			9. Margins II		
+			10. Auto		
+			11. Margin Collapse		
+			12. Minimum and Maximum Height and Width		
+			13. Overflow		
+			14. Resetting Defaults		
+			15. Visibility		
+			16. Review		
+		B. Changing the Box Model			
+			1. Why Change the Box Model?		
+			2. Box Model: Content-Box		
+			3. Box Model: Border-Box		
+			4. The New Box Model		
+			5. Review: Changing the Box Model		
+	III. Display and Positioning				
+		A. CSS Display and Positioning			
+			1. Flow of HTML		
+			2. Position		
+			3. Position: Relative		
+			4. Position: Absolute		
+			5. Position: Fixed		
+			6. Z-Index		
+			7. Inline Display		
+			8. Block Display		
+			9. Inline-Block Display		
+			10. Float		
+			11. Clear		
+			12. Review: Layout		
+	IV. Learn CSS: Colors				
+		A. CSS Color			
+			1. Introduction to Color		
+			2. Foreground vs Background		
+			3. Hexadecimal		
+			4. RGB Colors		
+			5. Hex and RGB		
+			6. Hue, Saturation, and Lightness		
+			7. Opacity and Alpha		
+			8. Color Review		
+	V. Learn CSS: Typography				
+		A. CSS Typography			
+			1. Typography		
+			2. Font Family		
+			3. Font Weight		
+			4. Font Weight II		
+			5. Font Style		
+			6. Word Spacing		
+			7. Letter Spacing		
+			8. Text Transformation		
+			9. Text Alignment		
+			10. Line Height Anatomy		
+			11. Line Height		
+			12. Serif and Sans Serif		
+			13. Fallback Fonts		
+			14. Linking Fonts I		
+			15. Linking Fonts II		
+			16. Font-Face I		
+			17. Font-Face II		
+			18. Font-Face III		
+			19. Review		
+	VI. Learn CSS: Grid				
+		A. CSS Grid Essentials			
+			1. Introduction to Grids		
+			2. Creating a Grid		
+			3. Creating Columns		
+			4. Creating Rows		
+			5. Grid Template		
+			6. Fraction		
+			7. Repeat		
+			8. minmax		
+			9. Grid Gap		
+			10. Grid Items		
+			11. Multiple Row Items		
+			12. Grid Row		
+			13. Grid Column		
+			14. Grid Area		
+			15. Review		
+					
+③	Make a Website				
+	I. Site Structure				
+		A. Site Structure			
+			1. What are HTML and CSS?		
+			2. Anatomy of an HTML Element		
+			3. Add a Heading		
+			4. Add a Paragraph		
+			5. Anchor Elements		
+			6. A Closer Look		
+			7. Adding Images		
+			8. Add a Video		
+			9. Create an Unordered List		
+			10. Parent and Child Elements		
+			11. Add a Div		
+			12. Metadata: The Brains		
+			13. HTML Review		
+	II. A Closer Look at CSS				
+		A. A Closer Look at CSS			
+			1. Why Use CSS?		
+			2. Link to a Stylesheet		
+			3. Anatomy of a CSS Rule		
+			4. font-family		
+			5. color		
+			6. CSS Class Selectors		
+			7. font-size		
+			8. A Background Image		
+			9. CSS id Selectors		
+			10. css-review		
+	III. Boundaries and Space				
+		A. Boundaries and Space			
+			1. The Box Model		
+			2. Create a Border		
+			3. Working with Padding		
+			4. Working with Margin		
+			5. More Margins		
+			6. Understanding Display		
+			7. Keep It Inline		
+			8. Using Float		
+			9. Display: Flex		
+			10. Working with Position		
+			11. Review		
+					
+④	Learn Sass				
+	I. Create a Sass Stylesheet				
+		A. Your First Sass Stylesheet			
+			1. Why Sass?		
+			2. Compiling Sass		
+			3. Sass: Overview		
+			4. Nesting Selectors		
+			5. Nesting Properties		
+			6. Variables In Sass		
+			7. Sass(y) Types		
+			8. Maps & Lists		
+			9. Generalizations		
+	II. Mixins and the & Selector				
+		A. Mixins and the & Selector			
+			1. The & Selector in Nesting		
+			2. What is a Mixin?		
+			3. Mixins: Arguments		
+			4. Default Value Arguments		
+			5. Mixin Facts		
+			6. List Arguments		
+			7. String Interpolation		
+			8. The & Selector in Mixins		
+			9. Generalizations		
+	III. Functions and Operations				
+		A. Functions and Operations			
+			1. Functions in SCSS		
+			2. Arithmetic and Color		
+			3. Color Functions		
+			4. Arithmetic		
+			5. Division Can Be Special		
+			6. Each Loops		
+			7. For Loops		
+			8. Conditionals		
+			9. Generalizations		
+	IV. Sustainable SCSS				
+		A. Sustainable SCSS			
+			1. Sasstainability		
+			2. Sass Structure		
+			3. @Import in SCSS		
+			4. Organize with Partials		
+			5. @Extend		
+			6. %Placeholders		
+			7. @Extend vs @Mixin		
+			8. Generalizations		
+					
+⑤	Introduction To JavaScript				
+	I. Learn JavaScript: Introduction				
+		A. Introduction to JavaScript 			
+			1. Introduction		
+			2. Console		
+			3. Data Types		
+			4. Math Operators		
+			5. Properties		
+			6. Built-in Methods		
+			7. Libraries		
+			8. Comments		
+			9. Review Types and Operators		
+		B. Variables			
+			1. Variables		
+			2. Create a Variable: const		
+			3. Create a Variable: let		
+			4. Undefined		
+			5. Mathematical Assignment Operators		
+			6. String Interpolation		
+			7. String Interpolation II		
+			8. Review Variables		
+	II. Learn JavaScript: Control Flow				
+		A. Control Flow			
+			1. Introduction to Control Flow		
+			2. if/else Statements		
+			3. True and False Values		
+			4. True and False Values II		
+			5. Comparison Operators		
+			6. Comparison Operators II		
+			7. else if Statements		
+			8. Logical Operators		
+			9. switch Statements		
+			10. Ternary Operator		
+			11. Review: Control Flow		
+	III. Learn JavaScript: Functions				
+		A. Functions			
+			1. Introduction to Functions		
+			2. Functions		
+			3. Parameters		
+			4. Parameters II		
+			5. Return		
+			6. Return II		
+			7. Function Declarations		
+			8. Function Expressions		
+			9. Arrow Functions		
+			10. Review Functions		
+	IV. Learn JavaScript: Scope				
+		A. Scope			
+			1. Scope		
+			2. Global Scope		
+			3. Global Scope II		
+			4. Block Scope		
+			5. Block Scope II		
+			6. Block Scope III		
+			7. Review: Scope		
+	V. Learn JavaScript: Arrays				
+		A. Arrays			
+			1. Arrays		
+			2. Create an array		
+			3. Property Access		
+			4. Update Elements		
+			5. length property		
+			6. push Method		
+			7. More Array Methods		
+			8. Arrays with let and const		
+			9. Review Arrays		
+	VI. Learn JavaScript: Loops				
+		A. Loops			
+			1. Loops		
+			2. Looping Manually		
+			3. for Loops		
+			4. for Loops, Backwards		
+			5. Nested for Loops		
+			6. while Loops		
+			7. Infinite Loops		
+			8. Review: Loops		
+	VII. Learn JavaScript: Iterators				
+		A. Iterators			
+			1. Introduction to Iterators		
+			2. .forEach()		
+			3. .map()		
+			4. .filter()		
+			5. Iterator Documentation		
+			6. Choose the Right Iterator		
+			7. Review: Iterators		
+	VIII. Learn JavaScript: Objects				
+		A. Objects			
+			1. Introduction to JavaScript Objects		
+			2. Objects		
+			3. Accessing Object Properties I		
+			4. Accessing Object Properties II		
+			5. Accessing Object Properties III		
+			6. Adding a Property		
+			7. Editing a Property		
+			8. Methods		
+			9. Methods: ES6		
+			10. The this Keyword I		
+			11. The this Keyword II		
+			12. Getters and Setters I		
+			13. Getters and Setters II		
+			14. Getters and Setters III		
+			15. Review: Objects		
+	IX. Learn JavaScript: Classes				
+		A. Classes			
+			1. Introduction to Classes		
+			2. Constructor		
+			3. Instance		
+			4. Methods		
+			5. Method Calls		
+			6. Inheritance I		
+			7. Inheritance II		
+			8. Inheritance III		
+			9. Inheritance IV		
+			10. Inheritance V		
+			11. Static Methods		
+			12. Review: Classes		
+	X. Learn JavaScript: Browser Compatibility and Transpilation				
+		A. Browser Compatibility and Transpilation			
+			1. Introduction		
+			2. caniuse.com I		
+			3. caniuse.com II		
+			4. Why ES6?		
+			5. Transpilation With Babel		
+			6. npm init		
+			7. Install Node Packages		
+			8. .babelrc		
+			9. Babel Source Lib		
+			10. Build		
+			11. Review		
+	XI. Learn JavaScript: Modules				
+		A. Intermediate JavaScript Modules			
+			1. Hello Modules		
+			2. module.exports		
+			3. require()		
+			4. module.exports II		
+			5. export default		
+			6. import		
+			7. Named Exports		
+			8. Named Imports		
+			9. Export Named Exports		
+			10. Import Named Imports		
+			11. Export as		
+			12. Import as		
+			13. Combining Export Statements		
+			14. Combining Import Statements		
+			15. Review		
+	XII. Learn JavaScript: Requests				
+		A. Requests I			
+			1. Introduction to Requests		
+			2. HTTP Requests		
+			3. XHR GET Requests I		
+			4. XHR GET Requests II		
+			5. XHR GET Requests III		
+			6. XHR GET Requests IV		
+			7. XHR POST Requests I		
+			8. XHR POST Requests II		
+			9. XHR Post Requests III		
+			10. Review Requests I		
+		B. Requests II			
+			1. Introduction to Requests with ES6		
+			2. fetch() GET Requests I		
+			3. fetch() GET Requests II		
+			4. fetch() GET Requests III		
+			5. fetch() GET Requests IV		
+			6. fetch() POST Requests I		
+			7. fetch() POST Requests II		
+			8. fetch() Post Requests III		
+			9. fetch() POST Requests IV		
+			10. fetch() POST Requests V		
+			11. async GET Requests I		
+			12. async GET Requests II		
+			13. async GET Requests III		
+			14. async POST Requests I		
+			15. async POST Requests II		
+			16. async POST Requests III		
+			17. Review Requests II		
+					
+⑥	Introduction to jQuery				
+	I. Learn jQuery: Introduction				
+		A. jQuery Setup			
+			1. Why jQuery?		
+			2. jQuery Methods		
+			3. jQuery Library		
+			4. Adding jQuery		
+			5. .ready()		
+			6. Targeting by Class		
+			7. Targeting by id		
+			8. jQuery Objects		
+			9. Event Handlers		
+			10. Review: jQuery Introduction		
+	II. Learn jQuery: Effects				
+		A. Learn jQuery: Effects			
+			1. Introduction		
+			2. .hide()		
+			3. .show()		
+			4. .toggle()		
+			5. fading		
+			6. .fadeToggle()		
+			7. Sliding		
+			8. Review: Effects		
+	III. Learn jQuery: Event Handlers				
+		A. Mouse Events			
+			1. Introduction to Mouse Events		
+			2. On 'mouseenter'		
+			3. On 'mouseleave'		
+			4. Chaining Events		
+			5. currentTarget		
+			6. Review: Event Handlers		
+	IV. Learn jQuery: Style Methods				
+		A Style Methods			
+			1. CSS & jQuery		
+			2. .css()		
+			3. CSS II		
+			4. .animate()		
+			5. .addClass()		
+			6. .removeClass()		
+			7. .toggleClass()		
+			8. Review: Style Methods		
+	V. Learn jQuery: Traversing the DOM				
+		A. Traversing the DOM			
+			1. The DOM Tree		
+			2. Children		
+			3. Parent & Siblings		
+			4. Closest		
+			5. Next		
+			6. find		
+			7. Review: Traversing the DOM		
